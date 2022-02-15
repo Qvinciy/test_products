@@ -54,7 +54,7 @@
         size:{
           type:Number,
           required:false,
-          default: 12
+          default: 16
         }
       },
       methods:{
